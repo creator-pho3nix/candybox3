@@ -1,0 +1,6 @@
+echo "# candybox3" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/creator-pho3nix/candybox3.git
+git push -u origin master
